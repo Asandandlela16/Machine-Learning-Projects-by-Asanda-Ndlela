@@ -67,7 +67,9 @@ A **Random Forest Classifier** was trained using an 80/20 train-test split.
 ### Key Metrics
 
 Accuracy: 0.59
+
 Precision: 0.64
+
 Recall: 0.73
 
 
